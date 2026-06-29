@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise .NET 10 VMS Solution Explorer",
+  "description": "An interactive architecture explorer, simulator, and exporter for a production-ready enterprise Vulnerability Management System (VMS) solution skeleton using .NET 10, EF Core, Dapper, SQL Server, and a provider-based Modular Monolith design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
